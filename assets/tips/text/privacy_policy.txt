@@ -1,0 +1,2 @@
+This app stores basic information (due date, weight logs, notes) locally on your device.
+We do not collect or share personal health data.
